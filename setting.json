@@ -1,0 +1,59 @@
+[
+    {
+        "protein_id": "1mag",
+        "arguments": {
+            "Z_1": -11,
+            "Z_2": 6, 
+            "tms_d":0.5,
+            "tetgen_flag": "-pq1.1AnQ"
+        },
+        "extract_alg": "Trial"
+    },
+    {
+        "protein_id": "7ahl",
+        "arguments": {
+            "Z_1": -11,
+            "Z_2": 10,
+            "ETA": 15,
+            "tms_d":0.4,
+            "tms_e":0.9,
+            "tetgen_flag": "-pq1.2AnQ"
+        },
+        "extract_alg": "Trial"
+    },
+    {
+        "protein_id":"3emn",
+        "arguments":{
+            "Z_1": -11,
+            "Z_2": 11,
+            "ETA": 20,
+            "tetgen_flag": "-pq1.2AnQ",
+            "tms_d": 0.2
+        },
+        "extract_alg":"Trial"
+    },
+    {
+        "protein_id":"1bl8",
+        "arguments":{
+            "Z_1": -17,
+            "Z_2": 17,
+            "ETA": 20,
+            "tms_d": 0.6,
+            "tms_e": 0.9,
+            "tetgen_flag": "-pq1.4AnQ"
+        },
+        "extract_alg":"bfs"
+    },
+    {
+        "protein_id":"1ap9",
+        "arguments":{
+            "Z_1": -15,
+            "Z_2": 15,
+            "ETA": 25,
+            "tms_d": 0.3,
+            "tms_e": 0.99,
+            "tetgen_flag": "-pq1.2AnQ"
+        },
+        "extract_alg":"Trial"
+    }
+]
